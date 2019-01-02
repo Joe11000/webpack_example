@@ -1,0 +1,19 @@
+{
+  "name": "webpack_example",
+  "version": "1.0.0",
+  "description": "Webpack intro app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joe11000/webpack_example.git"
+  },
+  "author": "Joe Noonan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joe11000/webpack_example/issues"
+  },
+  "homepage": "https://github.com/Joe11000/webpack_example#readme"
+}
