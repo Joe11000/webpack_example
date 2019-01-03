@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Joe11000/webpack_example/issues"
   },
-  "homepage": "https://github.com/Joe11000/webpack_example#readme"
+  "homepage": "https://github.com/Joe11000/webpack_example#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1"
+  }
 }
